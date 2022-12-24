@@ -1,4 +1,4 @@
-<h1><a href="https://classy-biscochitos-5a2fd9.netlify.app/"> Demo </a></h1>
+<h1><a href="https://reduxtoolkitstoree.netlify.app/"> Live Site </a></h1>
 
 <h2>React Redux Toolkit Cart </h2>
 
